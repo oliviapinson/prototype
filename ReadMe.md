@@ -5,7 +5,7 @@ Convolutional Neural Networks (CNNs) are used for image classification. They uti
 **Dataset**
 
 *  *Image* file:
-  *  Consists of 10,015 dermatoscopic images
+      * Consists of 10,015 dermatoscopic images
   
 * *Metadata* file:
     * **Diagnostic Categories/Labels (7 different classes of skin cancer):**
